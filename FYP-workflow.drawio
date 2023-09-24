@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-24T14:25:02.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="OZhUPcMuKrmQYVAJfeE-" version="21.8.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-24T14:26:41.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ZtR35Tz0imRwReRYwF33" version="21.8.1" type="github" pages="3">
   <diagram name="Image Segmentation" id="VDZbJDNXe66LChUHXBfJ">
     <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#666666" math="0" shadow="0">
       <root>
@@ -509,7 +509,7 @@
         <mxCell id="PFLXKock7ZQ7F9fA-7UU-2" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Input Images&lt;/b&gt;&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#FFFFFF;strokeWidth=2.5;" vertex="1" parent="1">
           <mxGeometry x="355" y="50" width="80.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PFLXKock7ZQ7F9fA-7UU-4" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Output Images&lt;/b&gt;&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fa6800;fontColor=#000000;strokeColor=#FFFFFF;strokeWidth=2.5;" vertex="1" parent="1">
+        <mxCell id="PFLXKock7ZQ7F9fA-7UU-4" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot; style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;Segmented Images&lt;/b&gt;&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#fa6800;fontColor=#000000;strokeColor=#FFFFFF;strokeWidth=2.5;" vertex="1" parent="1">
           <mxGeometry x="359.5" y="320" width="80.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="za_IVqdJOIjNfuOdkF1x-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2.5;strokeColor=#FFFFFF;dashed=1;exitX=0.542;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PFLXKock7ZQ7F9fA-7UU-2">
